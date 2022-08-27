@@ -1,6 +1,6 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
-import pdf from "./resume.pdf";
+import pdf from "../../images/resume/resume.pdf";
 
 const preventDefault = (event) => event.preventDefault();
 
