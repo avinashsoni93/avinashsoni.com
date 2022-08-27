@@ -3,7 +3,9 @@ import React from "react";
 const Footer = () => {
   return (
     <div className="header-container border-t bg-white p-2.5 flex justify-between">
-      <div className="copyright text-xs">Handcrafted by me © avinash soni</div>
+      <div className="copyright text-xs">
+        Copyright © 2022 Avinash Soni. All Rights Reserved
+      </div>
       <div className="social-media-links flex">
         <a
           href="https://www.linkedin.com/in/avinashsoni14/"
