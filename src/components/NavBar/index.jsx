@@ -1,5 +1,6 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
+import pdf from "./resume.pdf";
 
 const preventDefault = (event) => event.preventDefault();
 
@@ -26,9 +27,10 @@ const NavBar = () => {
       </a>
       <a
         className="mx-1 sm:mx-2 hover:underline hover:highlight"
-        href="#contact-me"
+        href={pdf}
+        download="Resume_Avinash_Soni.pdf"
       >
-        Contact Me
+        Get Resume
       </a>
     </Box>
   );
