@@ -1,4 +1,4 @@
-# The Gift'ed App
+# The avinashsoni.com app
 
 ## Run the below command to run the project 
 
