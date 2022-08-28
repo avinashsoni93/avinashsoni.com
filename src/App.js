@@ -1,7 +1,6 @@
 import Header from "./components/Header";
 import Home from "./pages/Home";
 import Skills from "./pages/Skills";
-import ContactMe from "./pages/ContactMe";
 import Timeline from "./pages/Timeline";
 import Projects from "./pages/Projects";
 import Footer from "./components/Footer";
@@ -14,7 +13,6 @@ function App() {
       <Skills />
       <Timeline />
       <Projects />
-      {/* <ContactMe /> */}
       <Footer />
     </div>
   );
