@@ -1,6 +1,14 @@
 const projects = [
   {
     img: {
+      url: require("../images/projects/6thstreet.webp"),
+      style: {},
+    },
+    name: "6thstreet.com",
+    url: "https://www.6thstreet.com",
+  },
+  {
+    img: {
       url: require("../images/projects/oms.png"),
       style: {},
     },

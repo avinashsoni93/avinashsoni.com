@@ -22,7 +22,7 @@ const Skills = () => {
             HTML, CSS, TailwindCSS, ANTDesign and Material
           </div>
           <div className="text-sm">
-            React, Redux, ReactNative, Backbone, Marionette, Underscore,
+            React.js, Next.js, Redux, ReactNative, Backbone, Marionette, Underscore,
             Handlebars, and Require
           </div>
           <div className="text-sm">Jest, Karma, Jasmine and RTL</div>

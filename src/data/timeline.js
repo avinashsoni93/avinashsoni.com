@@ -1,12 +1,27 @@
 const timeline = [
   {
+    title: "Oct 2022",
+    cardTitle: "Joined 6thstreet.com as Lead Engineer",
+    url: "https://www.6thstreet.com/",
+    cardSubtitle:"6thstreet.com, Gurgaon, Haryana India",
+    cardDetailedText: `Leading a team of 3 developers to optimise the performance of the e-commerce platform.
+        Setup unit testing framework.
+        Migrating the complete application from Magento 2 to Next.js based ecosystem.
+        Responsible for integrating and implementation of elastic search for ecommerce application.
+        Develop HLD and LLD based on the PRDs and Wireframes.
+        Responsible for mentorship performance & general happiness of developers.
+        Scrum master for the team, ensure agile methodology rules.
+        Hands-on react.js, next.js, redux, expo, ci-cd pipeline, unit testing, performance optimisation and
+        TDD.`,
+  },
+  ,{
       title: "May 2021",
       cardTitle: "Promoted to Team Lead",
       url: "https://agrevolution.in/",
       cardSubtitle:"DeHaat, Gurgaon, Haryana India",
-      cardDetailedText: `Leading a team of 8 developers to build multiple supply chain management platforms and
+      cardDetailedText: `Led a team of 8 developers to build multiple supply chain management platforms and
           products from scratch.
-          Building multiple teams from scratch and setting up processes & standards for increasing
+          Built multiple teams from scratch and setting up processes & standards for increasing
           developer productivity.
           Hands-on engineering leader with regular participant in code review & architecture decision
           and continuous focus on building a culture of engineering excellence.
