@@ -1,13 +1,5 @@
 # The avinashsoni.com app
 
-## Run the below command to run the project 
-
-### `npm i`
-To install all the required packages
-
-### `npm start`
-To start the project
-
 # 💫 About Me:
 A software professional with over 9 years of software development experience and more than 4 years of experience in engineering people management of a 10 members team.<br>Expert in large scale systems engineering, with the finest fundamental knowledge of frontend & UI engineering.<br>Extensive knowledge in core JavaScript, hands-on and proficient in React, ReactNative, Flutter and other supporting libraries.<br>Proven exposure working with Agile Methodologies, established agile and JIRA board for multiple teams from scratch.
 
